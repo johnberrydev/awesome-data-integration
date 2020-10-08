@@ -15,6 +15,14 @@ A curated list of awesome articles, tools and products for Data Integration.
 
 - [WebMethods Integration Server](https://www.softwareag.com/en_corporate/platform/integration-apis/webmethods-integration.html)
 
+### Integration Platform as a Service (iPaaS)
+
+- [Microsoft LogicApps](https://azure.microsoft.com/en-us/services/logic-apps/)
+
+- [Mulesoft](https://www.mulesoft.com/)
+
+- [SnapLogic](https://www.snaplogic.com/)
+
 ## Application Integration
 
 ### Books
