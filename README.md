@@ -3,16 +3,15 @@ A curated list of awesome articles, tools and products for Data Integration.
 
 ## Contents
 
-- [Business-to-Business Integration](#Business-to-Business-Integration)
+- [Integration Tools](#Business-to-Business-Integration)
 	- [B2B Software](#B2B-Software)
-	- [Integration Platform as a Service](#Integration-Platform-as-a-Service-(PaaS))
-- [Application Integration](#Application-Integration)
-	- [Books](#books)
-- [Database Integration](#Database-Integration)
-	- [Extract-Transform-Load Software](#Extract-Transform-Load-(ETL)-Software)
+	- [Integration Platform as a Service(iPaaS)](#Integration-Platform-as-a-Service-(PaaS))
+- [Extract-Transform-Load Tools](#Extract-Transform-Load-(ETL)-Tools)
+	- [ETL Software](#ETL-Software)
 	- [Cloud ETL](#Cloud-ETL)
+- [Books](#books)
 
-## Business-to-Business Integration
+## Integration Tools
 
 ### B2B Software
 
@@ -26,15 +25,20 @@ A curated list of awesome articles, tools and products for Data Integration.
 
 - [SnapLogic](https://www.snaplogic.com/)
 
-## Application Integration
+- [Dell Boomi](https://www.boomi.com/)
 
-### Books
+- [Jitterbit](https://www.jitterbit.com/)
 
-- [Enterprise Integration Patterns](https://www.enterpriseintegrationpatterns.com/) - Patterns and Best Practices for Enterprise Integration
+- [Tibco Cloud Integratio](https://www.tibco.com/products/cloud-integration)
 
-## Database Integration
+- [Workato](https://www.workato.com/)
 
-### Extract-Transform-Load (ETL) Software
+- [Informatica Cloud Integration](https://www.informatica.com/products/cloud-integration.html)
+
+
+## Extract-Transform-Load (ETL) Tools
+
+### ETL Software
 
 - [Talend Open Studio](https://www.talend.com/products/talend-open-studio/)
 
@@ -49,6 +53,12 @@ A curated list of awesome articles, tools and products for Data Integration.
 - [Azure Data Factory](https://azure.microsoft.com/en-us/services/data-factory/)
 
 - [Google Cloud Data Fusion](https://cloud.google.com/data-fusion)
+
+
+## Books
+
+- [Enterprise Integration Patterns](https://www.enterpriseintegrationpatterns.com/) - Patterns and Best Practices for Enterprise Integration
+
 
 ## License
 
